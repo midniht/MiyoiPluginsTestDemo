@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"list":[{"code":356,"indent":0,"parameters":["MiP_Party joinParty"]},{"code":0,"indent":0,"parameters":[]}],"name":"角色入队","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":356,"indent":0,"parameters":["MiP_Party leaveParty"]},{"code":0,"indent":0,"parameters":[]}],"name":"角色离队","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":356,"indent":0,"parameters":["MiP_Prison arrestCharacter"]},{"code":0,"indent":0,"parameters":[]}],"name":"逮捕角色","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":356,"indent":0,"parameters":["MiP_Prison releaseCharacter"]},{"code":0,"indent":0,"parameters":[]}],"name":"释放角色","switchId":1,"trigger":0},
+{"id":5,"list":[{"code":356,"indent":0,"parameters":["MiP_Dialogue clearImages"]},{"code":0,"indent":0,"parameters":[]}],"name":"清除所有立绘","switchId":1,"trigger":0}
+]
