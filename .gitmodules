@@ -1,3 +1,0 @@
-[submodule "js/plugins"]
-	path = js/plugins
-	url = git@github.syd:midniht/rpg-maker-mv-plugin.git
