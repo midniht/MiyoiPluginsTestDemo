@@ -1,4 +1,4 @@
 !js/plugins/*.js
 
-# 存档文件
-save
+# 存档目录
+save/
