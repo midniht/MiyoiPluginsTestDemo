@@ -2,7 +2,7 @@
 
 > 依赖于 Git 子模块 [Miyoi's RPG Maker MV/MZ Plugins](https://github.com/midniht/rpg-maker-mv-plugin)。
 
-一个简简单单的功能演示 demo 而已，差不多得了。
+一个简简单单的功能演示 demo 而已，差不多得了。\
 能跑就行.jpg
 
 ## 获取本项目
