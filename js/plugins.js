@@ -3,7 +3,7 @@
 var $plugins =
 [
 {"name":"MiP_Common_CustomChineseFont","status":true,"description":"Miyoi's Plugin - 自定义中文字体\r\nv0.9.0","parameters":{"指定字体文件":"Yozai-Regular.ttf"}},
-{"name":"MiP_Core_Library","status":true,"description":"Miyoi's Plugin - Core Library\r\nv0.3.0","parameters":{"插件专属备注标记":"miyoidesu","队伍管理":"","「队伍中」状态":"12","「离开队伍」技能":"11","角色登场":"","显示角色的独立开关":"A","角色事件备注标记":"is_character"}},
-{"name":"MiP_Addon_PrisonManager","status":true,"description":"Miyoi's Plugin - Prison Manager\r\nv0.7.1","parameters":{"监牢":"","「监禁中」状态":"11","显示「监禁中」角色的独立开关":"B","监牢角色事件备注标记":"is_prisoner","禁闭室":"","显示「禁闭中」角色的独立开关":"C","禁闭室事件备注标记":"is_lockdown"}},
+{"name":"MiP_Core_Library","status":true,"description":"Miyoi's Plugin - Core Library\r\nv0.5.3","parameters":{"插件专属备注标记":"miyoidesu","队伍管理":"","「队伍中」状态":"12","「离开队伍」技能":"11","角色登场":"","角色事件备注标记":"is_character"}},
+{"name":"MiP_Addon_PrisonManager","status":true,"description":"Miyoi's Plugin - Prison Manager\r\nv0.7.5","parameters":{"监牢":"","「监禁中」状态":"11","显示「监禁中」角色的独立开关":"C","监牢角色事件备注标记":"is_prisoner","「切换监禁状态」技能":"12","「切换监禁状态」物品":"1","禁闭室":"","显示「禁闭中」角色的独立开关":"D","禁闭室事件备注标记":"is_lockdown"}},
 {"name":"MiP_Addon_DialogueManager","status":true,"description":"Miyoi's Plugin - Dialogue Manager\r\nv0.5.0","parameters":{"立绘图片文件名前缀":"MyGO_立绘"}}
 ];
